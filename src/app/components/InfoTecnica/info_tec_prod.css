@@ -1,0 +1,26 @@
+.area-info-tecnica {
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 10%;
+}
+
+h1 {
+    padding-top: 8%;
+    font-size: 30px;
+    margin-top: 30%;
+}
+
+.info-tec {
+    margin-left: 8%;
+    margin-top: 0.5%;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.sub-tit-info {
+    margin-top: 3%;
+    margin-left: 8%;
+    font-size: 16px;
+    font-weight: 700;
+}

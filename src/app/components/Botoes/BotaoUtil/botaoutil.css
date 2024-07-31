@@ -1,0 +1,34 @@
+.botao-util {
+    justify-content: center;
+    height: 30px;
+    width: 90px;
+    border: 0 solid #F2E3D5;
+    border-radius: 100px;
+    background-color: #031017;
+    color: #F2E3D5;
+    text-align: center;
+    align-items: center;
+    /* align-content: center; */
+    padding-left: 18px;
+    padding-bottom: 5px;
+    padding-top: 6px;
+    font-size: 12px;
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 12%;
+    margin-left: -15%;
+    display: flex;
+    /* align-content: center; */
+}
+
+.FaRegThumbsUp {
+    font-weight: bolder;
+    margin-top: -1%;
+    margin-left: 20%;
+    font-size: 16px;
+}
+
+.area-util {
+    height: 20%;
+}

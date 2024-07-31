@@ -1,0 +1,23 @@
+.botao-filtrar {
+    display: flex;
+    height: 45px;
+    width: 110px;
+    align-items: center;
+    border-radius: 23px;
+    padding-left: 20px;
+    text-align: left;
+    border: 0 solid #fff;
+    background-color: transparent;
+    box-shadow: 1px 1px 4px black;
+    font-weight: bolder;
+}
+
+.area_botao_filtrar {
+    margin-right: -10%;
+}
+
+.icon-arrow-se-front {
+    margin-left: 10%;
+    font-size: 30px;
+    font-weight: bolder;
+}

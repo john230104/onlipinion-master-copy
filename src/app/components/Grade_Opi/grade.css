@@ -1,0 +1,106 @@
+.geral {
+    width: 92%;
+    height: 100%;
+    justify-content: center;
+    margin-top: 1%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.grade {
+    display: flex;
+    width: 92%;
+    height: 100%;
+    flex-direction: row;
+}
+
+.corpo_grade {
+    width: 100%;
+    height: 47%;
+    border: 2px solid white;
+    box-shadow: 1px 1px 4px black;
+    margin-top: 4%;
+    border-radius: 15px;
+}
+
+.grade01 {
+    display: block;
+    width: 50%;
+    /* flex-direction: column;
+    align-content: center; */
+    margin-right: 1%;
+}
+
+.grade02 {
+    width: 50%;
+    display: block;
+    /* flex-direction: column;
+    align-content: center; */
+    margin-left: 1%;
+}
+
+h3 {
+    width: 50%;
+    margin-top: 1.4%;
+    margin-left: 1.5%;
+    font-size: 15px;
+}
+
+h4 {
+    width: 50%;
+    margin-top: 0.3%;
+    margin-left: 1.4%;
+    font-size: 10px;
+}
+
+.estrela-grade {
+    display: flex;
+    list-style: none;
+    margin-top: -1%;
+    margin-left: -30.5px;
+}
+
+.estrela-grade li {
+    font-size: 60%;
+}
+
+.nome-produto-grade {
+    margin-top: 2%;
+}
+
+.opiniao {
+    width: 97%;
+    text-wrap: stable;
+    text-align: justify;
+    font-size: 11px;
+    margin-top: 1%;
+    margin-left: 1.4%;
+}
+
+.botao-util-css {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    height: 25%;
+}
+
+.numeracao_opiniao ul {
+    list-style: none;
+    display: flex;
+    margin-left: 36.5%;
+    margin-top: -9.5%;
+}
+
+.numeracao_opiniao li {
+    margin-right: 3%;
+    font-weight: bolder;
+}
+
+.campo-ico {
+    width: 100%;
+    margin-top: 10%;
+    margin-left: 21%;
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}

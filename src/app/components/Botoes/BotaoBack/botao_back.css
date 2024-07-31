@@ -1,0 +1,15 @@
+.botao-back {
+    height: 40px;
+    width: 40px;
+    justify-content: center;
+    background-color: transparent;
+    border: 0 solid #fff;
+}
+.area_botao_back {
+    margin-top: 15%;
+}
+
+.icon-arrow-se-back {
+    font-size: 30px;
+    font-weight: bolder;
+}

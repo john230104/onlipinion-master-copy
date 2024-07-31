@@ -1,0 +1,12 @@
+.botao-left {
+    height: 40px;
+    width: 40px;
+    justify-content: center;
+    background-color: transparent;
+    border: 0 solid #fff;
+}
+
+.icon-arrow-se-left {
+    font-size: 30px;
+    font-weight: bolder;
+}

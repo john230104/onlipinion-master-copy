@@ -1,0 +1,24 @@
+.botao-ordenar {
+    display: flex;
+    height: 45px;
+    width: 180px;
+    border-radius: 23px;
+    align-items: center;
+    padding-left: 18px;
+    padding-right: 0px;
+    text-align: left;
+    border: 0 solid #fff;
+    background-color: transparent;
+    box-shadow: 1px 1px 4px black;
+    font-weight: bolder;
+}
+
+.area_botao_ordenar {
+    margin-right: -28%;
+} 
+
+.icon-arrow-s-front {
+    margin-left: 10%;
+    font-size: 30px;
+    font-weight: bolder;
+}

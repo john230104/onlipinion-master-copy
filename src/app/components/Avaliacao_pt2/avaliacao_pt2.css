@@ -1,0 +1,56 @@
+.avaliacao_pt2 {
+    width: 92%;
+    height: 100%;
+    margin-top: 8%;
+    margin-left: 8%;
+    margin-right: 8%;
+    font-weight: bolder;
+    
+}
+
+.titulo {
+    font-size: 22px;
+}
+
+.number2 {
+    font-size: 22px;
+}
+
+
+sup {
+    font-size: 12px;
+}
+
+.estrela2 {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-top: -0.8%;
+    margin-left: -88%;
+}
+
+.estrela2 li {
+    font-size: 12px;
+    color: #3CA6A6;
+}
+
+.organizar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    margin-left: 45%;
+    margin-right: 10%;
+    margin-top: -4%;
+}
+
+.ordenar {
+    margin-right: -28%;
+    font-size: 19px;
+}
+
+.filtrar {
+    margin-right: -28%;
+    font-size: 20px;
+}
+
